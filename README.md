@@ -1,6 +1,8 @@
 # Simulation-of-Job-Scheduler
 # Introduction
-Here I tried to implement 3 job scheduling algorithms-
+I Worked on building an OS scheduler. I created 3 strategies for scheduling (FCFS, small job, SJF) and
+then 3 strategies for space allocation (first fit, worst fit, best fit). We simulated for all the
+combinations and compared the performance using line graphs.
 1. First Come First Service(FCFS)
 
 2. Shortest Duration Job First (SDJF/SRTF)
