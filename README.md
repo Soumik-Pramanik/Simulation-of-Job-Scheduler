@@ -12,7 +12,7 @@ combinations and compared the performance using line graphs.
 ![image](https://user-images.githubusercontent.com/96630179/188329894-c59b83a4-79e1-49f7-9a8c-1f0283e40915.png)
 ![image](https://user-images.githubusercontent.com/96630179/188329901-884fd6ff-c1dd-4c70-b4d2-a639ea895f6e.png)
 ![image](https://user-images.githubusercontent.com/96630179/188329920-750faf45-598d-4429-a206-115c45a0ad17.png)
-# SDJF Result
+# SRTF Result
 ![image](https://user-images.githubusercontent.com/96630179/188329940-3bdcd754-74d2-4814-b122-8c4b454ed7cd.png)
 ![image](https://user-images.githubusercontent.com/96630179/188329946-6a104672-6ac5-43eb-bfe3-ff4e7d114b8d.png)
 ![image](https://user-images.githubusercontent.com/96630179/188329957-9ab570cd-4eb1-4d1b-bda5-4a2081828757.png)
